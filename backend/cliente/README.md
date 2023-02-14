@@ -9,6 +9,8 @@
 
 `docker exec -it mongodb mongosh -u "root" -p "root"`
 
+`use luz`
+
 
 ## Iniciando a aplicação
 ### Na IDE
